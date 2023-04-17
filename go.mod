@@ -1,5 +1,5 @@
-module github.com/jstarks/npiperelay
+module github.com/haton14/npiperelay
 
-go 1.13
+go 1.20
 
-require golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae
+require golang.org/x/sys v0.7.0
